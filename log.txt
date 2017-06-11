@@ -64,3 +64,4 @@
 0527. 🎨 style: remove trailing whitespace
 0110. 🐛 fix: prevent crash on empty input
 0970. ♻️ chore: update .gitignore
+0197. 📚 docs: update README with setup steps
