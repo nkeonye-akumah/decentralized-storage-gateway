@@ -67,3 +67,4 @@
 0197. 📚 docs: update README with setup steps
 0196. ♻️ chore: bump dependencies
 0293. ✅ test: add integration test for /submit endpoint
+0054. ♻️ chore: update .gitignore
