@@ -69,3 +69,4 @@
 0293. ✅ test: add integration test for /submit endpoint
 0054. ♻️ chore: update .gitignore
 0013. ✅ test: increase coverage on auth module
+0418. ✅ test: mock database connection in test suite
