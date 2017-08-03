@@ -73,3 +73,4 @@
 0021. ✨ feat: support email verification
 0214. 📚 docs: improve code comments in utils
 0475. 🔧 refactor: clean up auth middleware
+0059. ♻️ chore: bump dependencies
