@@ -80,3 +80,4 @@
 0542. 🔧 refactor: organize models into subfolders
 0257. 📚 docs: clarify environment setup
 0526. ✨ feat: add user authentication
+0977. 🔧 refactor: organize models into subfolders
