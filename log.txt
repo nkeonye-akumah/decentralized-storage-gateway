@@ -85,3 +85,4 @@
 0209. ✨ feat: implement quiz timer feature
 0777. 📚 docs: document token refresh logic
 0144. ✅ test: increase coverage on auth module
+0724. ✅ test: mock database connection in test suite
