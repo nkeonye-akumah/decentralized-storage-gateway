@@ -131,3 +131,4 @@
 0854. ♻️ chore: rename env.example
 0944. ✨ feat: add user authentication
 0159. 🚀 perf: lazy-load components
+0484. 🐛 fix: handle 500 error in quiz API
