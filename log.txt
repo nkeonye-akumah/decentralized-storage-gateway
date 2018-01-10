@@ -130,3 +130,4 @@
 0870. ♻️ chore: clean up unused files
 0854. ♻️ chore: rename env.example
 0944. ✨ feat: add user authentication
+0159. 🚀 perf: lazy-load components
