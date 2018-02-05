@@ -138,3 +138,4 @@
 0753. 🔧 refactor: remove redundant code blocks
 0852. ✨ feat: enable dark mode toggle
 0056. ♻️ chore: rename env.example
+0998. 🐛 fix: fix null pointer exception on login
