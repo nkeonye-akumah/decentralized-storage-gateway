@@ -141,3 +141,4 @@
 0998. 🐛 fix: fix null pointer exception on login
 0512. 🚀 perf: reduce image load time
 0337. 📚 docs: document token refresh logic
+0820. 📚 docs: add API usage examples
