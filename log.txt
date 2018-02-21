@@ -142,3 +142,4 @@
 0512. 🚀 perf: reduce image load time
 0337. 📚 docs: document token refresh logic
 0820. 📚 docs: add API usage examples
+0329. 📚 docs: update README with setup steps
