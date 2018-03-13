@@ -145,3 +145,4 @@
 0329. 📚 docs: update README with setup steps
 0937. 🐛 fix: handle 500 error in quiz API
 0571. 🔧 refactor: clean up auth middleware
+0188. 🎨 style: apply consistent indentation
