@@ -154,3 +154,4 @@
 0426. ✅ test: add integration test for /submit endpoint
 0546. 🐛 fix: fix null pointer exception on login
 0411. ✅ test: add unit test for quiz service
+0430. 🐛 fix: fix null pointer exception on login
