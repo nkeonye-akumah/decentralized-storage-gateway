@@ -158,3 +158,4 @@
 0102. ✨ feat: support email verification
 0076. 🎨 style: reformat files with black
 0118. 🚀 perf: reduce image load time
+0709. ♻️ chore: bump dependencies
