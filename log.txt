@@ -168,3 +168,4 @@
 0391. 🐛 fix: fix null pointer exception on login
 0286. ✅ test: mock database connection in test suite
 0272. 🔧 refactor: remove redundant code blocks
+0804. ♻️ chore: add GitHub actions badge
