@@ -176,3 +176,4 @@
 0445. 📚 docs: improve code comments in utils
 0573. ✅ test: add integration test for /submit endpoint
 0805. ♻️ chore: add GitHub actions badge
+0356. 📚 docs: write FAQ section
