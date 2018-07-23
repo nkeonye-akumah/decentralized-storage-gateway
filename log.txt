@@ -179,3 +179,4 @@
 0356. 📚 docs: write FAQ section
 0900. 🐛 fix: handle 500 error in quiz API
 0086. 🐛 fix: correct typo in registration form
+0300. ✨ feat: add export to CSV option
