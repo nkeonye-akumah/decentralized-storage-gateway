@@ -186,3 +186,4 @@
 0369. 🎨 style: standardize quote style
 0774. 🔧 refactor: refactor quiz grading logic
 0162. ♻️ chore: add GitHub actions badge
+0459. 🔧 refactor: organize models into subfolders
