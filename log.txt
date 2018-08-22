@@ -190,3 +190,4 @@
 0677. 📚 docs: add API usage examples
 0628. ♻️ chore: add GitHub actions badge
 0560. 🎨 style: rename variables for clarity
+0865. ♻️ chore: add GitHub actions badge
