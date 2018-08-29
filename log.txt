@@ -193,3 +193,4 @@
 0865. ♻️ chore: add GitHub actions badge
 0585. 🚀 perf: lazy-load components
 0319. 🐛 fix: handle 500 error in quiz API
+0943. 🎨 style: rename variables for clarity
