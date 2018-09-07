@@ -200,3 +200,4 @@
 0295. 🎨 style: remove trailing whitespace
 0984. ♻️ chore: clean up unused files
 0499. 🎨 style: reformat files with black
+0842. 🎨 style: remove trailing whitespace
