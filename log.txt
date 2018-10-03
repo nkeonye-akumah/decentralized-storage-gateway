@@ -212,3 +212,4 @@
 0603. 🐛 fix: fix broken CSS in mobile view
 0485. 📚 docs: update README with setup steps
 0239. 🎨 style: standardize quote style
+0394. 🚀 perf: lazy-load components
