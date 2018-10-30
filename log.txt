@@ -225,3 +225,4 @@
 0433. 🐛 fix: prevent crash on empty input
 0579. 📚 docs: clarify environment setup
 0338. ♻️ chore: add GitHub actions badge
+0673. 🐛 fix: correct typo in registration form
