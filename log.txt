@@ -233,3 +233,4 @@
 0705. 🔧 refactor: refactor quiz grading logic
 0929. ✨ feat: support email verification
 0073. 🔧 refactor: split large controller into smaller functions
+0697. ♻️ chore: bump dependencies
