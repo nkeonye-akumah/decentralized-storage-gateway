@@ -256,3 +256,4 @@
 0460. 📚 docs: write FAQ section
 0344. ♻️ chore: add GitHub actions badge
 0856. 🐛 fix: fix null pointer exception on login
+0268. 🐛 fix: prevent crash on empty input
