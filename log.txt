@@ -258,3 +258,4 @@
 0856. 🐛 fix: fix null pointer exception on login
 0268. 🐛 fix: prevent crash on empty input
 0407. 🚀 perf: cache repeated calculations
+0950. 🎨 style: reformat files with black
