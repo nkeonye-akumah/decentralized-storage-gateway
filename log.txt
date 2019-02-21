@@ -262,3 +262,4 @@
 0891. ✨ feat: create admin dashboard
 0875. ✅ test: increase coverage on auth module
 0309. 🔧 refactor: refactor quiz grading logic
+0531. 🐛 fix: prevent crash on empty input
