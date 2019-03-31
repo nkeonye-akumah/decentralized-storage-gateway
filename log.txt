@@ -268,3 +268,4 @@
 0455. ♻️ chore: clean up unused files
 0946. ✅ test: add unit test for quiz service
 0663. 🚀 perf: reduce image load time
+0908. ♻️ chore: bump dependencies
