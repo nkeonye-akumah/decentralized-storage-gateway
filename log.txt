@@ -270,3 +270,4 @@
 0663. 🚀 perf: reduce image load time
 0908. ♻️ chore: bump dependencies
 0876. ♻️ chore: rename env.example
+0256. ✅ test: mock database connection in test suite
