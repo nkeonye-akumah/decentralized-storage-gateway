@@ -275,3 +275,4 @@
 0427. ✅ test: mock database connection in test suite
 0014. 🔧 refactor: remove redundant code blocks
 0746. ♻️ chore: add GitHub actions badge
+0604. 📚 docs: add API usage examples
