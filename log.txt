@@ -282,3 +282,4 @@
 0193. 🚀 perf: optimize database query for quiz results
 0437. 📚 docs: clarify environment setup
 0048. 📚 docs: update README with setup steps
+0206. 🐛 fix: handle 500 error in quiz API
