@@ -284,3 +284,4 @@
 0048. 📚 docs: update README with setup steps
 0206. 🐛 fix: handle 500 error in quiz API
 0822. 🔧 refactor: remove redundant code blocks
+0372. ✨ feat: add user authentication
