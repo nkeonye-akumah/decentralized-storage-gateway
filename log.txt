@@ -287,3 +287,4 @@
 0372. ✨ feat: add user authentication
 0631. ✨ feat: create admin dashboard
 0167. 🚀 perf: reduce image load time
+0862. ♻️ chore: bump dependencies
