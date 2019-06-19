@@ -288,3 +288,4 @@
 0631. ✨ feat: create admin dashboard
 0167. 🚀 perf: reduce image load time
 0862. ♻️ chore: bump dependencies
+0154. 🐛 fix: prevent crash on empty input
