@@ -296,3 +296,4 @@
 0895. ✨ feat: support email verification
 0529. 📚 docs: write FAQ section
 0681. ✨ feat: create admin dashboard
+0517. ✅ test: mock database connection in test suite
