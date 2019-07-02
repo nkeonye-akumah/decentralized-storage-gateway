@@ -297,3 +297,4 @@
 0529. 📚 docs: write FAQ section
 0681. ✨ feat: create admin dashboard
 0517. ✅ test: mock database connection in test suite
+0739. 🎨 style: remove trailing whitespace
