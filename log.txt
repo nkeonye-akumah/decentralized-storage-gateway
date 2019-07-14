@@ -305,3 +305,4 @@
 0385. ♻️ chore: clean up unused files
 0605. ✨ feat: support email verification
 0667. ✨ feat: add export to CSV option
+0766. 🎨 style: reformat files with black
