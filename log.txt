@@ -306,3 +306,4 @@
 0605. ✨ feat: support email verification
 0667. ✨ feat: add export to CSV option
 0766. 🎨 style: reformat files with black
+0945. ♻️ chore: add GitHub actions badge
