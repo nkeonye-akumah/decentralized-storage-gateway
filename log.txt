@@ -318,3 +318,4 @@
 0470. 🎨 style: remove trailing whitespace
 0171. 🐛 fix: fix broken CSS in mobile view
 0679. ♻️ chore: bump dependencies
+0652. 🔧 refactor: organize models into subfolders
