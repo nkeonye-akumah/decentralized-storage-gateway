@@ -323,3 +323,4 @@
 0810. 🔧 refactor: refactor quiz grading logic
 0077. ♻️ chore: rename env.example
 0844. 📚 docs: update README with setup steps
+0552. 🐛 fix: fix null pointer exception on login
