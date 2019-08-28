@@ -331,3 +331,4 @@
 0624. ✅ test: add unit test for quiz service
 0687. 🎨 style: remove trailing whitespace
 0377. ✨ feat: add user authentication
+0764. ✨ feat: add user authentication
