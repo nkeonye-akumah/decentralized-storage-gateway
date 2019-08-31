@@ -333,3 +333,4 @@
 0377. ✨ feat: add user authentication
 0764. ✨ feat: add user authentication
 0284. ✨ feat: implement quiz timer feature
+0621. 🔧 refactor: clean up auth middleware
