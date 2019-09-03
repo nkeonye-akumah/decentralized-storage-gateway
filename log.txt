@@ -335,3 +335,4 @@
 0284. ✨ feat: implement quiz timer feature
 0621. 🔧 refactor: clean up auth middleware
 0294. 🐛 fix: prevent crash on empty input
+0099. 🚀 perf: reduce image load time
