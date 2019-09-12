@@ -340,3 +340,4 @@
 0244. ✨ feat: add export to CSV option
 0134. ✨ feat: implement quiz timer feature
 0536. ✨ feat: add user authentication
+0074. ♻️ chore: add GitHub actions badge
