@@ -342,3 +342,4 @@
 0536. ✨ feat: add user authentication
 0074. ♻️ chore: add GitHub actions badge
 0623. 🎨 style: standardize quote style
+0400. 🐛 fix: fix null pointer exception on login
