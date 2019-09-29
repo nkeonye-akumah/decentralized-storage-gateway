@@ -344,3 +344,4 @@
 0623. 🎨 style: standardize quote style
 0400. 🐛 fix: fix null pointer exception on login
 0642. 🚀 perf: optimize database query for quiz results
+0659. 📚 docs: add API usage examples
