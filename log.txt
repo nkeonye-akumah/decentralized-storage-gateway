@@ -351,3 +351,4 @@
 0627. 📚 docs: document token refresh logic
 0199. ✨ feat: create admin dashboard
 0622. 🎨 style: apply consistent indentation
+0885. ♻️ chore: update .gitignore
