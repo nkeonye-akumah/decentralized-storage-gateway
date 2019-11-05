@@ -357,3 +357,4 @@
 0807. 🔧 refactor: remove redundant code blocks
 0758. 🚀 perf: optimize database query for quiz results
 0569. 📚 docs: document token refresh logic
+0949. 📚 docs: write FAQ section
