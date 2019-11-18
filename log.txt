@@ -366,3 +366,4 @@
 0971. 🎨 style: standardize quote style
 0251. ♻️ chore: update .gitignore
 0018. 🔧 refactor: organize models into subfolders
+0064. 📚 docs: clarify environment setup
