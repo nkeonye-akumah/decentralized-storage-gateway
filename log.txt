@@ -371,3 +371,4 @@
 0374. 🎨 style: standardize quote style
 0520. 🐛 fix: fix null pointer exception on login
 0497. 🔧 refactor: refactor quiz grading logic
+0873. 🚀 perf: cache repeated calculations
