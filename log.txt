@@ -392,3 +392,4 @@
 0001. 🚀 perf: cache repeated calculations
 0271. ✅ test: add unit test for quiz service
 0213. ✅ test: add integration test for /submit endpoint
+0514. 🐛 fix: fix broken CSS in mobile view
