@@ -395,3 +395,4 @@
 0514. 🐛 fix: fix broken CSS in mobile view
 0680. ♻️ chore: add GitHub actions badge
 0092. 🚀 perf: reduce image load time
+0219. ✅ test: increase coverage on auth module
