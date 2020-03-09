@@ -398,3 +398,4 @@
 0219. ✅ test: increase coverage on auth module
 0548. 📚 docs: write FAQ section
 0480. ♻️ chore: add GitHub actions badge
+0841. 🚀 perf: optimize database query for quiz results
