@@ -402,3 +402,4 @@
 0798. 🚀 perf: reduce image load time
 0595. ✨ feat: enable dark mode toggle
 0181. ♻️ chore: add GitHub actions badge
+0874. 🔧 refactor: split large controller into smaller functions
