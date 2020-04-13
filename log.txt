@@ -410,3 +410,4 @@
 0556. ✨ feat: support email verification
 0848. 📚 docs: update README with setup steps
 0182. 🔧 refactor: remove redundant code blocks
+0975. 🎨 style: apply consistent indentation
