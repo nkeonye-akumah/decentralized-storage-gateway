@@ -422,3 +422,4 @@
 0954. 🚀 perf: cache repeated calculations
 0858. ♻️ chore: clean up unused files
 0533. ♻️ chore: add GitHub actions badge
+0629. 🔧 refactor: organize models into subfolders
