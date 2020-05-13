@@ -426,3 +426,4 @@
 0674. 🔧 refactor: split large controller into smaller functions
 0462. ♻️ chore: update .gitignore
 0375. 🐛 fix: handle 500 error in quiz API
+0487. 🎨 style: reformat files with black
