@@ -431,3 +431,4 @@
 0121. ✨ feat: support email verification
 0190. 🎨 style: rename variables for clarity
 0672. 🐛 fix: fix broken CSS in mobile view
+0139. 📚 docs: document token refresh logic
