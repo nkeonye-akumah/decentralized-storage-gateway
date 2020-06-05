@@ -435,3 +435,4 @@
 0849. 🐛 fix: correct typo in registration form
 0035. ✅ test: increase coverage on auth module
 0482. ✨ feat: add export to CSV option
+0793. 📚 docs: clarify environment setup
