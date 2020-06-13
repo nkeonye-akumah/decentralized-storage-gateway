@@ -442,3 +442,4 @@
 0439. 🐛 fix: correct typo in registration form
 0429. ✨ feat: add user authentication
 0869. ♻️ chore: bump dependencies
+0557. 🔧 refactor: clean up auth middleware
