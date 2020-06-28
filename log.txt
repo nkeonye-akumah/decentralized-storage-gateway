@@ -449,3 +449,4 @@
 0241. 📚 docs: add API usage examples
 0471. ✨ feat: support email verification
 0979. 🎨 style: standardize quote style
+0126. 🎨 style: rename variables for clarity
