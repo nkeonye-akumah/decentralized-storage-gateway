@@ -458,3 +458,4 @@
 0299. 🐛 fix: resolve issue with date parsing
 0010. ✨ feat: add user authentication
 0136. 🚀 perf: lazy-load components
+0408. ♻️ chore: add GitHub actions badge
