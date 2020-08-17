@@ -464,3 +464,4 @@
 0221. ✨ feat: add user authentication
 0339. 📚 docs: update README with setup steps
 0665. ♻️ chore: update .gitignore
+0947. 📚 docs: write FAQ section
