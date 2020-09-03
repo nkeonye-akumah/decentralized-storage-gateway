@@ -472,3 +472,4 @@
 0015. ✨ feat: implement quiz timer feature
 0830. 🎨 style: apply consistent indentation
 0997. ✅ test: increase coverage on auth module
+0083. 🎨 style: reformat files with black
