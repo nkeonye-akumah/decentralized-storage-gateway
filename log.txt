@@ -474,3 +474,4 @@
 0997. ✅ test: increase coverage on auth module
 0083. 🎨 style: reformat files with black
 0584. 🚀 perf: lazy-load components
+0715. ✨ feat: create admin dashboard
