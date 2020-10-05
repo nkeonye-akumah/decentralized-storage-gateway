@@ -477,3 +477,4 @@
 0715. ✨ feat: create admin dashboard
 0288. 🔧 refactor: refactor quiz grading logic
 0238. 🎨 style: apply consistent indentation
+0178. ✨ feat: support email verification
