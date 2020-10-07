@@ -478,3 +478,4 @@
 0288. 🔧 refactor: refactor quiz grading logic
 0238. 🎨 style: apply consistent indentation
 0178. ✨ feat: support email verification
+0940. 📚 docs: document token refresh logic
