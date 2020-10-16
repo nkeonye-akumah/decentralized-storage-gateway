@@ -483,3 +483,4 @@
 0866. 📚 docs: add API usage examples
 0587. 🔧 refactor: remove redundant code blocks
 0914. ✅ test: test user registration edge cases
+0105. 🐛 fix: correct typo in registration form
