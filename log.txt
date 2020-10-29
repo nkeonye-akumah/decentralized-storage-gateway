@@ -485,3 +485,4 @@
 0914. ✅ test: test user registration edge cases
 0105. 🐛 fix: correct typo in registration form
 0765. ♻️ chore: clean up unused files
+0721. 🚀 perf: optimize database query for quiz results
