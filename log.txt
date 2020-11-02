@@ -488,3 +488,4 @@
 0721. 🚀 perf: optimize database query for quiz results
 0955. 🔧 refactor: remove redundant code blocks
 0050. ✨ feat: enable dark mode toggle
+0463. 🚀 perf: reduce image load time
