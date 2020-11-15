@@ -490,3 +490,4 @@
 0050. ✨ feat: enable dark mode toggle
 0463. 🚀 perf: reduce image load time
 0884. 📚 docs: clarify environment setup
+0871. ✅ test: add integration test for /submit endpoint
