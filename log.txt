@@ -511,3 +511,4 @@
 0143. ✨ feat: implement quiz timer feature
 0567. 📚 docs: add API usage examples
 0476. 🚀 perf: reduce image load time
+0466. 🚀 perf: optimize database query for quiz results
