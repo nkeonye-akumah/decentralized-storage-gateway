@@ -518,3 +518,4 @@
 0952. 🔧 refactor: split large controller into smaller functions
 0348. ✅ test: test user registration edge cases
 0281. ✨ feat: support email verification
+0611. ✅ test: test user registration edge cases
