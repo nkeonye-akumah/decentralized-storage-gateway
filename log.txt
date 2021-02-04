@@ -522,3 +522,4 @@
 0008. 🚀 perf: reduce image load time
 0636. ✅ test: increase coverage on auth module
 0965. 🎨 style: reformat files with black
+0692. ✅ test: add integration test for /submit endpoint
