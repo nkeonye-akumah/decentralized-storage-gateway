@@ -533,3 +533,4 @@
 0198. 📚 docs: clarify environment setup
 0742. 📚 docs: clarify environment setup
 0142. ✨ feat: implement quiz timer feature
+0572. ✨ feat: add user authentication
