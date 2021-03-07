@@ -535,3 +535,4 @@
 0142. ✨ feat: implement quiz timer feature
 0572. ✨ feat: add user authentication
 0951. 🎨 style: rename variables for clarity
+0203. 🚀 perf: lazy-load components
