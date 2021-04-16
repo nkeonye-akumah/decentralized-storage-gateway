@@ -547,3 +547,4 @@
 0495. 🔧 refactor: remove redundant code blocks
 0836. 🚀 perf: optimize database query for quiz results
 0458. ✨ feat: create admin dashboard
+0540. ♻️ chore: add GitHub actions badge
