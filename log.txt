@@ -549,3 +549,4 @@
 0458. ✨ feat: create admin dashboard
 0540. ♻️ chore: add GitHub actions badge
 0759. 🔧 refactor: organize models into subfolders
+0646. ✅ test: test user registration edge cases
