@@ -551,3 +551,4 @@
 0759. 🔧 refactor: organize models into subfolders
 0646. ✅ test: test user registration edge cases
 0305. ✨ feat: enable dark mode toggle
+0488. ♻️ chore: add GitHub actions badge
