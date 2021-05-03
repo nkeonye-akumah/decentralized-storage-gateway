@@ -552,3 +552,4 @@
 0646. ✅ test: test user registration edge cases
 0305. ✨ feat: enable dark mode toggle
 0488. ♻️ chore: add GitHub actions badge
+0448. 🐛 fix: correct typo in registration form
