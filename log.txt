@@ -563,3 +563,4 @@
 0881. 🔧 refactor: split large controller into smaller functions
 0755. 🚀 perf: cache repeated calculations
 0207. 🐛 fix: prevent crash on empty input
+0027. 📚 docs: clarify environment setup
