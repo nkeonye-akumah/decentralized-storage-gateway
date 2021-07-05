@@ -565,3 +565,4 @@
 0207. 🐛 fix: prevent crash on empty input
 0027. 📚 docs: clarify environment setup
 0066. 🔧 refactor: clean up auth middleware
+0985. 📚 docs: document token refresh logic
