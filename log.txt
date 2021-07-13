@@ -566,3 +566,4 @@
 0027. 📚 docs: clarify environment setup
 0066. 🔧 refactor: clean up auth middleware
 0985. 📚 docs: document token refresh logic
+0706. ✨ feat: support email verification
