@@ -567,3 +567,4 @@
 0066. 🔧 refactor: clean up auth middleware
 0985. 📚 docs: document token refresh logic
 0706. ✨ feat: support email verification
+0125. ✅ test: add integration test for /submit endpoint
