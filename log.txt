@@ -579,3 +579,4 @@
 0840. 🔧 refactor: refactor quiz grading logic
 0494. 🎨 style: rename variables for clarity
 0370. 🚀 perf: reduce image load time
+0030. 🐛 fix: fix null pointer exception on login
