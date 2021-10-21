@@ -602,3 +602,4 @@
 0626. 🎨 style: standardize quote style
 0354. 📚 docs: add API usage examples
 0350. 🚀 perf: cache repeated calculations
+0287. 📚 docs: write FAQ section
