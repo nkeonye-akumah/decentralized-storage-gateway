@@ -620,3 +620,4 @@
 0172. 📚 docs: add API usage examples
 0657. 🎨 style: standardize quote style
 0733. 🐛 fix: fix null pointer exception on login
+0113. ✨ feat: add user authentication
