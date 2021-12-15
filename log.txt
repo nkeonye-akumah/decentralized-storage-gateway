@@ -622,3 +622,4 @@
 0733. 🐛 fix: fix null pointer exception on login
 0113. ✨ feat: add user authentication
 0212. 🎨 style: standardize quote style
+0247. 🎨 style: apply consistent indentation
