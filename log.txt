@@ -624,3 +624,4 @@
 0212. 🎨 style: standardize quote style
 0247. 🎨 style: apply consistent indentation
 0826. 📚 docs: clarify environment setup
+0575. ✅ test: add unit test for quiz service
