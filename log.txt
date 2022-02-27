@@ -642,3 +642,4 @@
 0859. ✨ feat: create admin dashboard
 0860. 🔧 refactor: organize models into subfolders
 0381. ♻️ chore: clean up unused files
+0800. 🚀 perf: optimize database query for quiz results
