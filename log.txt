@@ -644,3 +644,4 @@
 0381. ♻️ chore: clean up unused files
 0800. 🚀 perf: optimize database query for quiz results
 0115. 🚀 perf: reduce image load time
+0660. 🐛 fix: correct typo in registration form
