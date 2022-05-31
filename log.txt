@@ -671,3 +671,4 @@
 0307. ✨ feat: support email verification
 0075. ✅ test: mock database connection in test suite
 0383. 🐛 fix: fix broken CSS in mobile view
+0967. ♻️ chore: add GitHub actions badge
