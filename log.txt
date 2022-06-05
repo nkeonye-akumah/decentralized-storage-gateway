@@ -674,3 +674,4 @@
 0967. ♻️ chore: add GitHub actions badge
 0468. 📚 docs: update README with setup steps
 0373. 📚 docs: document token refresh logic
+0726. ✨ feat: enable dark mode toggle
