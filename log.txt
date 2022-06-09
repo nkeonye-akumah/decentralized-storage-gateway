@@ -679,3 +679,4 @@
 0559. 🔧 refactor: split large controller into smaller functions
 0052. 🎨 style: standardize quote style
 0686. 🎨 style: standardize quote style
+0477. 🐛 fix: fix broken CSS in mobile view
