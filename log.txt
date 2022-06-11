@@ -680,3 +680,4 @@
 0052. 🎨 style: standardize quote style
 0686. 🎨 style: standardize quote style
 0477. 🐛 fix: fix broken CSS in mobile view
+0834. ✅ test: increase coverage on auth module
