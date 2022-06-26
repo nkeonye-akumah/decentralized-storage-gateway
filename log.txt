@@ -683,3 +683,4 @@
 0834. ✅ test: increase coverage on auth module
 0519. 📚 docs: document token refresh logic
 0771. 🚀 perf: cache repeated calculations
+0996. ✅ test: test user registration edge cases
