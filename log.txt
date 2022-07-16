@@ -694,3 +694,4 @@
 0353. ♻️ chore: rename env.example
 0614. 🚀 perf: reduce image load time
 0331. 🐛 fix: fix broken CSS in mobile view
+0262. 🎨 style: remove trailing whitespace
