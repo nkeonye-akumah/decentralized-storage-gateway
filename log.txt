@@ -695,3 +695,4 @@
 0614. 🚀 perf: reduce image load time
 0331. 🐛 fix: fix broken CSS in mobile view
 0262. 🎨 style: remove trailing whitespace
+0760. 🐛 fix: resolve issue with date parsing
