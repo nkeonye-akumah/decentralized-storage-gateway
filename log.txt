@@ -698,3 +698,4 @@
 0760. 🐛 fix: resolve issue with date parsing
 0712. 🎨 style: apply consistent indentation
 0395. 📚 docs: write FAQ section
+0023. 📚 docs: clarify environment setup
