@@ -700,3 +700,4 @@
 0395. 📚 docs: write FAQ section
 0023. 📚 docs: clarify environment setup
 0702. ✨ feat: add user authentication
+0200. 🐛 fix: handle 500 error in quiz API
