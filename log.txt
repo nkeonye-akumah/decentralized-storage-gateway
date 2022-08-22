@@ -704,3 +704,4 @@
 0120. ✅ test: add integration test for /submit endpoint
 0011. ✅ test: add unit test for quiz service
 0169. 📚 docs: add API usage examples
+0662. ♻️ chore: clean up unused files
