@@ -705,3 +705,4 @@
 0011. ✅ test: add unit test for quiz service
 0169. 📚 docs: add API usage examples
 0662. ♻️ chore: clean up unused files
+0109. 🚀 perf: lazy-load components
