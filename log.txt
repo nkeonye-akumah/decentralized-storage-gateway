@@ -714,3 +714,4 @@
 0403. ✅ test: mock database connection in test suite
 0714. 📚 docs: improve code comments in utils
 0781. 🚀 perf: reduce image load time
+0980. 🎨 style: reformat files with black
