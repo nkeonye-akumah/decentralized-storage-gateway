@@ -722,3 +722,4 @@
 0104. 🎨 style: apply consistent indentation
 0586. 🎨 style: remove trailing whitespace
 0147. ♻️ chore: bump dependencies
+0957. 🐛 fix: fix null pointer exception on login
