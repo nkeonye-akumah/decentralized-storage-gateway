@@ -731,3 +731,4 @@
 0713. 🐛 fix: handle 500 error in quiz API
 0592. 📚 docs: add API usage examples
 0698. 🐛 fix: handle 500 error in quiz API
+0598. 🔧 refactor: remove redundant code blocks
