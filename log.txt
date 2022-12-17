@@ -741,3 +741,4 @@
 0580. ♻️ chore: bump dependencies
 0809. ♻️ chore: rename env.example
 0597. 🚀 perf: cache repeated calculations
+0574. ✨ feat: enable dark mode toggle
