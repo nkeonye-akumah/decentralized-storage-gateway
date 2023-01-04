@@ -1064,3 +1064,4 @@
 0701. 🔧 refactor: clean up auth middleware
 0677. 📚 docs: add API usage examples
 0539. 🔧 refactor: organize models into subfolders
+0276. ✅ test: add integration test for /submit endpoint
