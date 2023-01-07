@@ -748,3 +748,4 @@
 0748. 🚀 perf: optimize database query for quiz results
 0676. 🐛 fix: prevent crash on empty input
 0648. ♻️ chore: bump dependencies
+0157. ✅ test: mock database connection in test suite
