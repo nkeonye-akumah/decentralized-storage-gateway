@@ -1071,3 +1071,4 @@
 0805. ♻️ chore: add GitHub actions badge
 0103. 🔧 refactor: remove redundant code blocks
 0485. 📚 docs: update README with setup steps
+0685. ✅ test: test user registration edge cases
