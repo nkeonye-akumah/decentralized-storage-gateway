@@ -1073,3 +1073,4 @@
 0485. 📚 docs: update README with setup steps
 0685. ✅ test: test user registration edge cases
 0505. ♻️ chore: add GitHub actions badge
+0435. ✅ test: add unit test for quiz service
