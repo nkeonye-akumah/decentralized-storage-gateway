@@ -1076,3 +1076,4 @@
 0435. ✅ test: add unit test for quiz service
 0490. ✨ feat: create admin dashboard
 0548. 📚 docs: write FAQ section
+0911. ✅ test: increase coverage on auth module
