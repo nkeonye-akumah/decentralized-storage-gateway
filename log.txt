@@ -1097,3 +1097,4 @@
 0786. ✨ feat: enable dark mode toggle
 0767. 🔧 refactor: remove redundant code blocks
 0493. ✨ feat: add user authentication
+0008. 🚀 perf: reduce image load time
