@@ -1107,3 +1107,4 @@
 0262. 🎨 style: remove trailing whitespace
 0090. ✅ test: increase coverage on auth module
 0524. ♻️ chore: rename env.example
+0575. ✅ test: add unit test for quiz service
