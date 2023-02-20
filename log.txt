@@ -759,3 +759,4 @@
 0298. ♻️ chore: update .gitignore
 0325. 🎨 style: rename variables for clarity
 0151. ✅ test: add unit test for quiz service
+0107. 🐛 fix: prevent crash on empty input
