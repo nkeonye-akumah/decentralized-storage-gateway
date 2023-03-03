@@ -1118,3 +1118,4 @@
 0002. 🚀 perf: cache repeated calculations
 0404. 📚 docs: improve code comments in utils
 0365. 🚀 perf: reduce image load time
+0107. 🐛 fix: prevent crash on empty input
