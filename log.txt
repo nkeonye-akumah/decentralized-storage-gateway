@@ -1132,3 +1132,4 @@
 0628. ♻️ chore: add GitHub actions badge
 0288. 🔧 refactor: refactor quiz grading logic
 0195. 📚 docs: clarify environment setup
+0009. ✨ feat: enable dark mode toggle
