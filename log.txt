@@ -1164,3 +1164,4 @@
 0601. ✨ feat: implement quiz timer feature
 0109. 🚀 perf: lazy-load components
 0865. ♻️ chore: add GitHub actions badge
+0300. ✨ feat: add export to CSV option
