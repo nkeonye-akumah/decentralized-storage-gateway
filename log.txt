@@ -1171,3 +1171,4 @@
 0929. ✨ feat: support email verification
 0643. 🎨 style: apply consistent indentation
 0243. 🔧 refactor: clean up auth middleware
+0608. 🔧 refactor: remove redundant code blocks
