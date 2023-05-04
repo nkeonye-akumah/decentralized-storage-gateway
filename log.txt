@@ -1182,3 +1182,4 @@
 0242. ♻️ chore: clean up unused files
 0462. ♻️ chore: update .gitignore
 0441. 📚 docs: add API usage examples
+0921. 🐛 fix: correct typo in registration form
