@@ -1188,3 +1188,4 @@
 0029. 🚀 perf: lazy-load components
 0012. 🚀 perf: cache repeated calculations
 0401. 🚀 perf: reduce image load time
+0268. 🐛 fix: prevent crash on empty input
