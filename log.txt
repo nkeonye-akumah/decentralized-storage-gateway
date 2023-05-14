@@ -1190,3 +1190,4 @@
 0401. 🚀 perf: reduce image load time
 0268. 🐛 fix: prevent crash on empty input
 0613. 🐛 fix: prevent crash on empty input
+0691. 🎨 style: rename variables for clarity
