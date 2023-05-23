@@ -1200,3 +1200,4 @@
 0336. ✨ feat: add export to CSV option
 0074. ♻️ chore: add GitHub actions badge
 0852. ✨ feat: enable dark mode toggle
+0784. ♻️ chore: clean up unused files
