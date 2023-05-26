@@ -1203,3 +1203,4 @@
 0784. ♻️ chore: clean up unused files
 0863. 🐛 fix: correct typo in registration form
 0287. 📚 docs: write FAQ section
+0267. 📚 docs: improve code comments in utils
