@@ -1218,3 +1218,4 @@
 0919. 🚀 perf: optimize database query for quiz results
 0410. 🎨 style: reformat files with black
 0087. ✨ feat: add export to CSV option
+0710. 🐛 fix: fix broken CSS in mobile view
