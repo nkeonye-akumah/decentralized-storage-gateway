@@ -1227,3 +1227,4 @@
 0869. ♻️ chore: bump dependencies
 0603. 🐛 fix: fix broken CSS in mobile view
 0116. ✨ feat: support email verification
+0536. ✨ feat: add user authentication
