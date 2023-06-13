@@ -1235,3 +1235,4 @@
 0871. ✅ test: add integration test for /submit endpoint
 0634. 🎨 style: reformat files with black
 0676. 🐛 fix: prevent crash on empty input
+0217. 🚀 perf: reduce image load time
