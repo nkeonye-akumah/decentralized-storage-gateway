@@ -1239,3 +1239,4 @@
 0883. 📚 docs: improve code comments in utils
 0324. 📚 docs: document token refresh logic
 0129. 🔧 refactor: organize models into subfolders
+0749. ✨ feat: support email verification
