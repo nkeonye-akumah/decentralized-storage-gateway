@@ -1240,3 +1240,4 @@
 0324. 📚 docs: document token refresh logic
 0129. 🔧 refactor: organize models into subfolders
 0749. ✨ feat: support email verification
+0686. 🎨 style: standardize quote style
