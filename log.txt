@@ -1243,3 +1243,4 @@
 0686. 🎨 style: standardize quote style
 0261. 🔧 refactor: refactor quiz grading logic
 0040. 🔧 refactor: clean up auth middleware
+0193. 🚀 perf: optimize database query for quiz results
