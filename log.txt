@@ -1252,3 +1252,4 @@
 0353. ♻️ chore: rename env.example
 0926. 🔧 refactor: organize models into subfolders
 0412. ✅ test: increase coverage on auth module
+0699. 🎨 style: standardize quote style
