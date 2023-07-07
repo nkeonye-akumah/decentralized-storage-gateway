@@ -1254,3 +1254,4 @@
 0412. ✅ test: increase coverage on auth module
 0699. 🎨 style: standardize quote style
 0189. 📚 docs: clarify environment setup
+0445. 📚 docs: improve code comments in utils
