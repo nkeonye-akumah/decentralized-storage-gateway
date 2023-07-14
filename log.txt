@@ -798,3 +798,4 @@
 0457. 🐛 fix: handle 500 error in quiz API
 0440. 📚 docs: update README with setup steps
 0415. 🐛 fix: handle 500 error in quiz API
+0112. ✨ feat: enable dark mode toggle
