@@ -1267,3 +1267,4 @@
 0611. ✅ test: test user registration edge cases
 0745. ✅ test: add unit test for quiz service
 0558. ✨ feat: enable dark mode toggle
+0197. 📚 docs: update README with setup steps
