@@ -1289,3 +1289,4 @@
 0554. 📚 docs: improve code comments in utils
 0220. 🐛 fix: fix null pointer exception on login
 0487. 🎨 style: reformat files with black
+0659. 📚 docs: add API usage examples
