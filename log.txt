@@ -807,3 +807,4 @@
 0228. 🔧 refactor: remove redundant code blocks
 0601. ✨ feat: implement quiz timer feature
 0632. 🎨 style: remove trailing whitespace
+0359. 🔧 refactor: clean up auth middleware
