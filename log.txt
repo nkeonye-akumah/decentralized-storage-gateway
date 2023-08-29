@@ -1300,3 +1300,4 @@
 0779. 🔧 refactor: organize models into subfolders
 0289. 🐛 fix: resolve issue with date parsing
 0279. ✨ feat: support email verification
+0059. ♻️ chore: bump dependencies
