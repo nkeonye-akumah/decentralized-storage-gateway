@@ -1301,3 +1301,4 @@
 0289. 🐛 fix: resolve issue with date parsing
 0279. ✨ feat: support email verification
 0059. ♻️ chore: bump dependencies
+0751. 🐛 fix: handle 500 error in quiz API
