@@ -1303,3 +1303,4 @@
 0059. ♻️ chore: bump dependencies
 0751. 🐛 fix: handle 500 error in quiz API
 0447. ♻️ chore: bump dependencies
+0003. ✅ test: increase coverage on auth module
