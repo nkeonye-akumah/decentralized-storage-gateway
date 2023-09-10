@@ -1306,3 +1306,4 @@
 0003. ✅ test: increase coverage on auth module
 0024. 📚 docs: write FAQ section
 0172. 📚 docs: add API usage examples
+0245. 🐛 fix: resolve issue with date parsing
