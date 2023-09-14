@@ -1310,3 +1310,4 @@
 0398. 🚀 perf: cache repeated calculations
 0798. 🚀 perf: reduce image load time
 0006. 🐛 fix: prevent crash on empty input
+0552. 🐛 fix: fix null pointer exception on login
