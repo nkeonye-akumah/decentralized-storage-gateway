@@ -1313,3 +1313,4 @@
 0552. 🐛 fix: fix null pointer exception on login
 0095. ✅ test: mock database connection in test suite
 0854. ♻️ chore: rename env.example
+0562. 🔧 refactor: clean up auth middleware
