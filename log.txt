@@ -1314,3 +1314,4 @@
 0095. ✅ test: mock database connection in test suite
 0854. ♻️ chore: rename env.example
 0562. 🔧 refactor: clean up auth middleware
+0564. 📚 docs: clarify environment setup
