@@ -1320,3 +1320,4 @@
 0159. 🚀 perf: lazy-load components
 0347. ♻️ chore: update .gitignore
 0872. 🎨 style: rename variables for clarity
+0940. 📚 docs: document token refresh logic
