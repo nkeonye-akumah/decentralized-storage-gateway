@@ -1330,3 +1330,4 @@
 0734. ✨ feat: add export to CSV option
 0625. 🐛 fix: handle 500 error in quiz API
 0888. 🚀 perf: lazy-load components
+0335. ♻️ chore: update .gitignore
