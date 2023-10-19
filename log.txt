@@ -1348,3 +1348,4 @@
 0250. 📚 docs: update README with setup steps
 0358. 🚀 perf: reduce image load time
 0181. ♻️ chore: add GitHub actions badge
+0887. 📚 docs: add API usage examples
