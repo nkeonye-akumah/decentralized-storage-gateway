@@ -822,3 +822,4 @@
 0242. ♻️ chore: clean up unused files
 0469. 🚀 perf: lazy-load components
 0802. 🔧 refactor: remove redundant code blocks
+0959. 🐛 fix: fix null pointer exception on login
