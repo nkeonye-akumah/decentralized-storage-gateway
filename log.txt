@@ -1352,3 +1352,4 @@
 0322. 🔧 refactor: split large controller into smaller functions
 0106. 🎨 style: reformat files with black
 0108. 🎨 style: remove trailing whitespace
+0332. 🎨 style: standardize quote style
