@@ -1361,3 +1361,4 @@
 0851. ✅ test: mock database connection in test suite
 0169. 📚 docs: add API usage examples
 0047. 🎨 style: rename variables for clarity
+0879. 🎨 style: standardize quote style
