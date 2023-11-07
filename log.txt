@@ -1363,3 +1363,4 @@
 0047. 🎨 style: rename variables for clarity
 0879. 🎨 style: standardize quote style
 0576. ♻️ chore: update .gitignore
+0666. 🐛 fix: fix broken CSS in mobile view
