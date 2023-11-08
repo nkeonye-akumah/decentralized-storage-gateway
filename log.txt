@@ -1364,3 +1364,4 @@
 0879. 🎨 style: standardize quote style
 0576. ♻️ chore: update .gitignore
 0666. 🐛 fix: fix broken CSS in mobile view
+0076. 🎨 style: reformat files with black
