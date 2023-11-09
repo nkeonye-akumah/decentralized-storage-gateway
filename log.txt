@@ -825,3 +825,4 @@
 0959. 🐛 fix: fix null pointer exception on login
 0386. 🚀 perf: optimize database query for quiz results
 0117. ✅ test: increase coverage on auth module
+0175. 📚 docs: add API usage examples
