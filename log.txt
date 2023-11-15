@@ -1370,3 +1370,4 @@
 0781. 🚀 perf: reduce image load time
 0438. ♻️ chore: bump dependencies
 0291. 📚 docs: write FAQ section
+0235. 🐛 fix: fix null pointer exception on login
