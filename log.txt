@@ -1372,3 +1372,4 @@
 0291. 📚 docs: write FAQ section
 0235. 🐛 fix: fix null pointer exception on login
 0928. 🎨 style: apply consistent indentation
+0717. 🔧 refactor: refactor quiz grading logic
