@@ -827,3 +827,4 @@
 0117. ✅ test: increase coverage on auth module
 0175. 📚 docs: add API usage examples
 0057. 🚀 perf: optimize database query for quiz results
+0555. ✨ feat: create admin dashboard
