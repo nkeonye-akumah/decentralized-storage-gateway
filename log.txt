@@ -830,3 +830,4 @@
 0555. ✨ feat: create admin dashboard
 0850. ♻️ chore: rename env.example
 0972. 🔧 refactor: refactor quiz grading logic
+0451. ✨ feat: support email verification
