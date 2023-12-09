@@ -833,3 +833,4 @@
 0451. ✨ feat: support email verification
 0699. 🎨 style: standardize quote style
 0138. 🎨 style: rename variables for clarity
+0923. ✨ feat: support email verification
