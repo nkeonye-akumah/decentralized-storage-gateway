@@ -1392,3 +1392,4 @@
 0432. 🎨 style: apply consistent indentation
 0373. 📚 docs: document token refresh logic
 0196. ♻️ chore: bump dependencies
+0707. 🎨 style: apply consistent indentation
