@@ -3,3 +3,4 @@
 0560. 🎨 style: rename variables for clarity
 0583. ✅ test: increase coverage on auth module
 0347. ♻️ chore: update .gitignore
+0707. 🎨 style: apply consistent indentation
