@@ -1412,3 +1412,4 @@
 0486. ✨ feat: add export to CSV option
 0546. 🐛 fix: fix null pointer exception on login
 0998. 🐛 fix: fix null pointer exception on login
+0626. 🎨 style: standardize quote style
