@@ -1414,3 +1414,4 @@
 0998. 🐛 fix: fix null pointer exception on login
 0626. 🎨 style: standardize quote style
 0133. 🐛 fix: fix null pointer exception on login
+0764. ✨ feat: add user authentication
