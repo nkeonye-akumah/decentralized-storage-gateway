@@ -25,3 +25,4 @@
 0073. 🔧 refactor: split large controller into smaller functions
 0404. 📚 docs: improve code comments in utils
 0131. 📚 docs: write FAQ section
+0889. 🚀 perf: lazy-load components
