@@ -839,3 +839,4 @@
 0301. 🎨 style: apply consistent indentation
 0254. 🚀 perf: reduce image load time
 0720. ✨ feat: add export to CSV option
+0150. 🎨 style: remove trailing whitespace
