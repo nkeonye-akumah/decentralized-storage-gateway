@@ -9,3 +9,4 @@
 0010. ✨ feat: add user authentication
 0232. 🎨 style: apply consistent indentation
 0092. 🚀 perf: reduce image load time
+0441. 📚 docs: add API usage examples
