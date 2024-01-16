@@ -843,3 +843,4 @@
 0939. 📚 docs: update README with setup steps
 1000. ✅ test: increase coverage on auth module
 0796. 🔧 refactor: refactor quiz grading logic
+0772. 🐛 fix: fix null pointer exception on login
