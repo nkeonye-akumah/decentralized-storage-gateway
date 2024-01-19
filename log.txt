@@ -846,3 +846,4 @@
 0772. 🐛 fix: fix null pointer exception on login
 0502. 📚 docs: update README with setup steps
 0028. 🎨 style: standardize quote style
+0335. ♻️ chore: update .gitignore
