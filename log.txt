@@ -30,3 +30,4 @@
 0742. 📚 docs: clarify environment setup
 0775. 🐛 fix: fix null pointer exception on login
 0702. ✨ feat: add user authentication
+0354. 📚 docs: add API usage examples
