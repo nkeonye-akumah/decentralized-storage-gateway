@@ -848,3 +848,4 @@
 0028. 🎨 style: standardize quote style
 0335. ♻️ chore: update .gitignore
 0855. 🎨 style: reformat files with black
+0551. 📚 docs: write FAQ section
