@@ -1433,3 +1433,4 @@
 0238. 🎨 style: apply consistent indentation
 0121. ✨ feat: support email verification
 0847. ♻️ chore: clean up unused files
+0836. 🚀 perf: optimize database query for quiz results
