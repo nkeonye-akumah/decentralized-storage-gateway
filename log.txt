@@ -1434,3 +1434,4 @@
 0121. ✨ feat: support email verification
 0847. ♻️ chore: clean up unused files
 0836. 🚀 perf: optimize database query for quiz results
+0672. 🐛 fix: fix broken CSS in mobile view
