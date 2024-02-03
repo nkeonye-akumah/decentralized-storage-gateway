@@ -1437,3 +1437,4 @@
 0672. 🐛 fix: fix broken CSS in mobile view
 0682. ♻️ chore: rename env.example
 0753. 🔧 refactor: remove redundant code blocks
+0535. 📚 docs: write FAQ section
