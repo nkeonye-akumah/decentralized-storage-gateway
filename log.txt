@@ -852,3 +852,4 @@
 0763. 🔧 refactor: organize models into subfolders
 0999. 🔧 refactor: split large controller into smaller functions
 0785. ✨ feat: enable dark mode toggle
+0615. 🐛 fix: correct typo in registration form
