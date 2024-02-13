@@ -37,3 +37,4 @@
 0564. 📚 docs: clarify environment setup
 0978. 🐛 fix: prevent crash on empty input
 0286. ✅ test: mock database connection in test suite
+0986. 📚 docs: document token refresh logic
