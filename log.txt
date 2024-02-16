@@ -1448,3 +1448,4 @@
 0549. ✨ feat: enable dark mode toggle
 0771. 🚀 perf: cache repeated calculations
 0417. 🎨 style: rename variables for clarity
+0491. 🚀 perf: lazy-load components
