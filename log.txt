@@ -1455,3 +1455,4 @@
 0035. ✅ test: increase coverage on auth module
 0011. ✅ test: add unit test for quiz service
 0641. 📚 docs: write FAQ section
+0206. 🐛 fix: handle 500 error in quiz API
