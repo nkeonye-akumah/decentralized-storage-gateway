@@ -857,3 +857,4 @@
 0388. 🎨 style: reformat files with black
 0349. ✅ test: increase coverage on auth module
 0879. 🎨 style: standardize quote style
+0026. 🔧 refactor: clean up auth middleware
