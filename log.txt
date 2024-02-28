@@ -858,3 +858,4 @@
 0349. ✅ test: increase coverage on auth module
 0879. 🎨 style: standardize quote style
 0026. 🔧 refactor: clean up auth middleware
+0558. ✨ feat: enable dark mode toggle
