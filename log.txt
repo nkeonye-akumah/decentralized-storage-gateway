@@ -1474,3 +1474,4 @@
 0354. 📚 docs: add API usage examples
 0100. ♻️ chore: update .gitignore
 0395. 📚 docs: write FAQ section
+0499. 🎨 style: reformat files with black
