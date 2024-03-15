@@ -1475,3 +1475,4 @@
 0100. ♻️ chore: update .gitignore
 0395. 📚 docs: write FAQ section
 0499. 🎨 style: reformat files with black
+0448. 🐛 fix: correct typo in registration form
