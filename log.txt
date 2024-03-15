@@ -1476,3 +1476,4 @@
 0395. 📚 docs: write FAQ section
 0499. 🎨 style: reformat files with black
 0448. 🐛 fix: correct typo in registration form
+0140. 🐛 fix: handle 500 error in quiz API
