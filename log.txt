@@ -868,3 +868,4 @@
 0176. 🔧 refactor: remove redundant code blocks
 0461. ✨ feat: add user authentication
 0180. ✨ feat: add export to CSV option
+0816. 🔧 refactor: organize models into subfolders
