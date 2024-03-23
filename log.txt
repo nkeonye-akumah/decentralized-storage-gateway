@@ -1482,3 +1482,4 @@
 0670. ✨ feat: add export to CSV option
 0689. 🎨 style: reformat files with black
 0956. 📚 docs: clarify environment setup
+0690. 🚀 perf: lazy-load components
