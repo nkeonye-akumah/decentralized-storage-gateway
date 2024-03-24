@@ -870,3 +870,4 @@
 0180. ✨ feat: add export to CSV option
 0816. 🔧 refactor: organize models into subfolders
 0037. 🐛 fix: correct typo in registration form
+0543. ✨ feat: support email verification
