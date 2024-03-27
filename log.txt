@@ -1489,3 +1489,4 @@
 0301. 🎨 style: apply consistent indentation
 0796. 🔧 refactor: refactor quiz grading logic
 0327. 🔧 refactor: split large controller into smaller functions
+0578. ✅ test: add integration test for /submit endpoint
