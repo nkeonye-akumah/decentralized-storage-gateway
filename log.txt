@@ -50,3 +50,4 @@
 0644. 🎨 style: apply consistent indentation
 0837. 🚀 perf: cache repeated calculations
 0509. ♻️ chore: bump dependencies
+0982. 🚀 perf: lazy-load components
