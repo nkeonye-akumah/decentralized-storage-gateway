@@ -1493,3 +1493,4 @@
 0361. ✨ feat: support email verification
 0855. 🎨 style: reformat files with black
 0465. 🎨 style: rename variables for clarity
+0637. 🎨 style: apply consistent indentation
