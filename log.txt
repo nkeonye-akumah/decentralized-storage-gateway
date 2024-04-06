@@ -1500,3 +1500,4 @@
 0837. 🚀 perf: cache repeated calculations
 0725. 🚀 perf: lazy-load components
 0357. ✅ test: add unit test for quiz service
+0020. ✅ test: add integration test for /submit endpoint
