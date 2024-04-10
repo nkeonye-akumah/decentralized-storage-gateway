@@ -1502,3 +1502,4 @@
 0357. ✅ test: add unit test for quiz service
 0020. ✅ test: add integration test for /submit endpoint
 0286. ✅ test: mock database connection in test suite
+0572. ✨ feat: add user authentication
