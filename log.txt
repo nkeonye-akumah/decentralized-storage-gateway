@@ -1506,3 +1506,4 @@
 0170. ✅ test: increase coverage on auth module
 0828. ♻️ chore: add GitHub actions badge
 0304. 🔧 refactor: remove redundant code blocks
+0284. ✨ feat: implement quiz timer feature
