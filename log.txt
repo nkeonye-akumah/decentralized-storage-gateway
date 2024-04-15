@@ -879,3 +879,4 @@
 0017. ✅ test: mock database connection in test suite
 0082. 🔧 refactor: refactor quiz grading logic
 0108. 🎨 style: remove trailing whitespace
+0258. 🐛 fix: prevent crash on empty input
