@@ -53,3 +53,4 @@
 0982. 🚀 perf: lazy-load components
 0095. ✅ test: mock database connection in test suite
 0737. 🐛 fix: handle 500 error in quiz API
+0659. 📚 docs: add API usage examples
