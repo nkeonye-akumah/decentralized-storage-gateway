@@ -1540,3 +1540,4 @@
 0947. 📚 docs: write FAQ section
 0997. ✅ test: increase coverage on auth module
 0736. 🐛 fix: fix null pointer exception on login
+0079. 🐛 fix: correct typo in registration form
