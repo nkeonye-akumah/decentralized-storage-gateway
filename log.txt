@@ -1569,3 +1569,4 @@
 0343. 🚀 perf: optimize database query for quiz results
 0080. ✨ feat: support email verification
 0145. 📚 docs: improve code comments in utils
+0650. ✅ test: add unit test for quiz service
