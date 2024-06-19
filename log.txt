@@ -1579,3 +1579,4 @@
 0213. ✅ test: add integration test for /submit endpoint
 0705. 🔧 refactor: refactor quiz grading logic
 0754. 🐛 fix: handle 500 error in quiz API
+0514. 🐛 fix: fix broken CSS in mobile view
