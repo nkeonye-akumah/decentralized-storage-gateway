@@ -1581,3 +1581,4 @@
 0754. 🐛 fix: handle 500 error in quiz API
 0514. 🐛 fix: fix broken CSS in mobile view
 0202. 🔧 refactor: refactor quiz grading logic
+0521. 🎨 style: standardize quote style
