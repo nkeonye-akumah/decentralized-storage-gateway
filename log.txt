@@ -1585,3 +1585,4 @@
 0470. 🎨 style: remove trailing whitespace
 0967. ♻️ chore: add GitHub actions badge
 0567. 📚 docs: add API usage examples
+0323. 📚 docs: clarify environment setup
