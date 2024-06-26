@@ -1586,3 +1586,4 @@
 0967. ♻️ chore: add GitHub actions badge
 0567. 📚 docs: add API usage examples
 0323. 📚 docs: clarify environment setup
+0466. 🚀 perf: optimize database query for quiz results
