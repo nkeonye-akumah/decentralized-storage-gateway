@@ -1590,3 +1590,4 @@
 0984. ♻️ chore: clean up unused files
 0019. ✨ feat: enable dark mode toggle
 0557. 🔧 refactor: clean up auth middleware
+0937. 🐛 fix: handle 500 error in quiz API
