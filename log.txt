@@ -1604,3 +1604,4 @@
 0684. 🚀 perf: reduce image load time
 0529. 📚 docs: write FAQ section
 0273. 🚀 perf: reduce image load time
+0889. 🚀 perf: lazy-load components
