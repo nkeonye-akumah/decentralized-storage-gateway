@@ -1605,3 +1605,4 @@
 0529. 📚 docs: write FAQ section
 0273. 🚀 perf: reduce image load time
 0889. 🚀 perf: lazy-load components
+0740. 🐛 fix: resolve issue with date parsing
