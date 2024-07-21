@@ -1609,3 +1609,4 @@
 0152. ✨ feat: add user authentication
 0041. 🐛 fix: fix broken CSS in mobile view
 0948. 🐛 fix: fix broken CSS in mobile view
+0528. ♻️ chore: clean up unused files
