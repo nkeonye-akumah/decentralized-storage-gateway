@@ -1618,3 +1618,4 @@
 0247. 🎨 style: apply consistent indentation
 0639. 🐛 fix: correct typo in registration form
 0158. 📚 docs: clarify environment setup
+0184. 📚 docs: improve code comments in utils
