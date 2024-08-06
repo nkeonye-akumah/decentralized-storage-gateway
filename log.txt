@@ -916,3 +916,4 @@
 0744. 🔧 refactor: remove redundant code blocks
 0365. 🚀 perf: reduce image load time
 0367. 🐛 fix: fix null pointer exception on login
+0227. ✅ test: test user registration edge cases
