@@ -919,3 +919,4 @@
 0227. ✅ test: test user registration edge cases
 0340. 🚀 perf: optimize database query for quiz results
 0756. ✨ feat: support email verification
+0208. 🔧 refactor: clean up auth middleware
