@@ -1632,3 +1632,4 @@
 0369. 🎨 style: standardize quote style
 0054. ♻️ chore: update .gitignore
 0257. 📚 docs: clarify environment setup
+0733. 🐛 fix: fix null pointer exception on login
