@@ -921,3 +921,4 @@
 0756. ✨ feat: support email verification
 0208. 🔧 refactor: clean up auth middleware
 0051. ✨ feat: enable dark mode toggle
+0599. ✅ test: test user registration edge cases
