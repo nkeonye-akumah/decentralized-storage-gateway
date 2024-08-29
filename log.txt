@@ -1640,3 +1640,4 @@
 0110. 🐛 fix: prevent crash on empty input
 0086. 🐛 fix: correct typo in registration form
 0923. ✨ feat: support email verification
+0394. 🚀 perf: lazy-load components
