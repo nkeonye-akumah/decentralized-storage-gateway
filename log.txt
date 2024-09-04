@@ -1644,3 +1644,4 @@
 0016. 🎨 style: apply consistent indentation
 0787. ♻️ chore: rename env.example
 0698. 🐛 fix: handle 500 error in quiz API
+0345. 📚 docs: document token refresh logic
