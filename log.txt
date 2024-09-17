@@ -932,3 +932,4 @@
 0141. 📚 docs: document token refresh logic
 0195. 📚 docs: clarify environment setup
 0080. ✨ feat: support email verification
+0493. ✨ feat: add user authentication
