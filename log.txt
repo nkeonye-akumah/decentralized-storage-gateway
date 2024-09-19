@@ -934,3 +934,4 @@
 0080. ✨ feat: support email verification
 0493. ✨ feat: add user authentication
 0910. 🎨 style: remove trailing whitespace
+0506. 🐛 fix: handle 500 error in quiz API
