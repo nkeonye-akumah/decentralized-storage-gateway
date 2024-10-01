@@ -1669,3 +1669,4 @@
 0319. 🐛 fix: handle 500 error in quiz API
 0664. ✅ test: add unit test for quiz service
 0563. 📚 docs: clarify environment setup
+0065. ✅ test: add integration test for /submit endpoint
