@@ -1671,3 +1671,4 @@
 0563. 📚 docs: clarify environment setup
 0065. ✅ test: add integration test for /submit endpoint
 0191. 🔧 refactor: refactor quiz grading logic
+0359. 🔧 refactor: clean up auth middleware
