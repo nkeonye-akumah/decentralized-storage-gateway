@@ -939,3 +939,4 @@
 0719. 🎨 style: apply consistent indentation
 0449. ✅ test: add unit test for quiz service
 0958. 🐛 fix: prevent crash on empty input
+0360. ✨ feat: add export to CSV option
