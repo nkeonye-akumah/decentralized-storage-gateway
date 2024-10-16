@@ -1685,3 +1685,4 @@
 0866. 📚 docs: add API usage examples
 0310. 🔧 refactor: refactor quiz grading logic
 0477. 🐛 fix: fix broken CSS in mobile view
+0649. 📚 docs: update README with setup steps
