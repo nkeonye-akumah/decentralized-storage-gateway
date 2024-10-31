@@ -1698,3 +1698,4 @@
 0821. ✅ test: add integration test for /submit endpoint
 0522. 🐛 fix: handle 500 error in quiz API
 0674. 🔧 refactor: split large controller into smaller functions
+0269. ✅ test: test user registration edge cases
