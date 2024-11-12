@@ -1705,3 +1705,4 @@
 0696. 🔧 refactor: clean up auth middleware
 0942. ✅ test: increase coverage on auth module
 0512. 🚀 perf: reduce image load time
+0442. 🎨 style: standardize quote style
