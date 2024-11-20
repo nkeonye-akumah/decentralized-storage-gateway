@@ -1710,3 +1710,4 @@
 0590. 🐛 fix: fix null pointer exception on login
 0595. ✨ feat: enable dark mode toggle
 0135. ✅ test: test user registration edge cases
+0834. ✅ test: increase coverage on auth module
