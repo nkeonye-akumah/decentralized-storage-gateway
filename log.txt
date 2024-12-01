@@ -954,3 +954,4 @@
 0158. 📚 docs: clarify environment setup
 0149. ✨ feat: add export to CSV option
 0079. 🐛 fix: correct typo in registration form
+0453. 🎨 style: standardize quote style
