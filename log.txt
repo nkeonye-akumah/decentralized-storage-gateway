@@ -956,3 +956,4 @@
 0079. 🐛 fix: correct typo in registration form
 0453. 🎨 style: standardize quote style
 0127. 🐛 fix: fix null pointer exception on login
+0534. 🔧 refactor: split large controller into smaller functions
