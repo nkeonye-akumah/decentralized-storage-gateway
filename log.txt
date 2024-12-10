@@ -1724,3 +1724,4 @@
 0508. ✅ test: add unit test for quiz service
 0658. 🎨 style: rename variables for clarity
 0890. 🔧 refactor: organize models into subfolders
+0797. 📚 docs: add API usage examples
