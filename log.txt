@@ -1740,3 +1740,4 @@
 0896. 🚀 perf: reduce image load time
 0299. 🐛 fix: resolve issue with date parsing
 0965. 🎨 style: reformat files with black
+0977. 🔧 refactor: organize models into subfolders
