@@ -1742,3 +1742,4 @@
 0965. 🎨 style: reformat files with black
 0977. 🔧 refactor: organize models into subfolders
 0439. 🐛 fix: correct typo in registration form
+0478. 🐛 fix: resolve issue with date parsing
