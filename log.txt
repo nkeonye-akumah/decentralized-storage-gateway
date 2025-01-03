@@ -1744,3 +1744,4 @@
 0439. 🐛 fix: correct typo in registration form
 0478. 🐛 fix: resolve issue with date parsing
 0391. 🐛 fix: fix null pointer exception on login
+0192. ✨ feat: enable dark mode toggle
