@@ -964,3 +964,4 @@
 0274. 🔧 refactor: refactor quiz grading logic
 0790. 📚 docs: write FAQ section
 0363. 📚 docs: clarify environment setup
+0302. ✨ feat: implement quiz timer feature
