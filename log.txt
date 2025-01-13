@@ -1751,3 +1751,4 @@
 0778. 📚 docs: write FAQ section
 0403. ✅ test: mock database connection in test suite
 0556. ✨ feat: support email verification
+0241. 📚 docs: add API usage examples
