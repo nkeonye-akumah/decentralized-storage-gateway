@@ -1757,3 +1757,4 @@
 0223. 🔧 refactor: remove redundant code blocks
 0419. 🎨 style: remove trailing whitespace
 0425. 🔧 refactor: refactor quiz grading logic
+0793. 📚 docs: clarify environment setup
