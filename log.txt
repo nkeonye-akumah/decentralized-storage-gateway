@@ -1762,3 +1762,4 @@
 0025. 🚀 perf: optimize database query for quiz results
 0688. 🚀 perf: reduce image load time
 0282. 🔧 refactor: remove redundant code blocks
+0829. 🔧 refactor: organize models into subfolders
