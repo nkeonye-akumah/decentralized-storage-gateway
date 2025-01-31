@@ -1769,3 +1769,4 @@
 0444. ✅ test: add unit test for quiz service
 0408. ♻️ chore: add GitHub actions badge
 0819. 🚀 perf: reduce image load time
+0877. 🚀 perf: optimize database query for quiz results
