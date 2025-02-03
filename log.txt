@@ -1773,3 +1773,4 @@
 0157. ✅ test: mock database connection in test suite
 0131. 📚 docs: write FAQ section
 0178. ✨ feat: support email verification
+0885. ♻️ chore: update .gitignore
