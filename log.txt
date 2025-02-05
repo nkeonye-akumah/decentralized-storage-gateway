@@ -1775,3 +1775,4 @@
 0178. ✨ feat: support email verification
 0885. ♻️ chore: update .gitignore
 0073. 🔧 refactor: split large controller into smaller functions
+0616. 🚀 perf: lazy-load components
