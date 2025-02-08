@@ -1779,3 +1779,4 @@
 0344. ♻️ chore: add GitHub actions badge
 0612. ✅ test: test user registration edge cases
 0593. 🐛 fix: correct typo in registration form
+0957. 🐛 fix: fix null pointer exception on login
