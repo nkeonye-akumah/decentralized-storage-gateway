@@ -1787,3 +1787,4 @@
 0931. 🚀 perf: reduce image load time
 0283. ♻️ chore: add GitHub actions badge
 0551. 📚 docs: write FAQ section
+0092. 🚀 perf: reduce image load time
