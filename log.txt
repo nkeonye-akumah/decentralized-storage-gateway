@@ -1793,3 +1793,4 @@
 0898. 🐛 fix: fix broken CSS in mobile view
 0924. ✅ test: mock database connection in test suite
 0379. ✨ feat: support email verification
+0136. 🚀 perf: lazy-load components
