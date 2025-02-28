@@ -1795,3 +1795,4 @@
 0379. ✨ feat: support email verification
 0136. 🚀 perf: lazy-load components
 0346. ✅ test: mock database connection in test suite
+0231. 🔧 refactor: clean up auth middleware
