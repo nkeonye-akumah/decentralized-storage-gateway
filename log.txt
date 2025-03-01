@@ -973,3 +973,4 @@
 0727. ♻️ chore: add GitHub actions badge
 0312. ✨ feat: add user authentication
 0933. 📚 docs: clarify environment setup
+0532. 🔧 refactor: split large controller into smaller functions
