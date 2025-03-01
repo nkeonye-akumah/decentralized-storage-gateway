@@ -1797,3 +1797,4 @@
 0346. ✅ test: mock database connection in test suite
 0231. 🔧 refactor: clean up auth middleware
 0340. 🚀 perf: optimize database query for quiz results
+0471. ✨ feat: support email verification
