@@ -1800,3 +1800,4 @@
 0471. ✨ feat: support email verification
 0763. 🔧 refactor: organize models into subfolders
 0265. 🎨 style: reformat files with black
+0933. 📚 docs: clarify environment setup
