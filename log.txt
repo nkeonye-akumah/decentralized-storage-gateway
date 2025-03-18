@@ -1812,3 +1812,4 @@
 0455. ♻️ chore: clean up unused files
 0980. 🎨 style: reformat files with black
 0023. 📚 docs: clarify environment setup
+0249. ✅ test: increase coverage on auth module
