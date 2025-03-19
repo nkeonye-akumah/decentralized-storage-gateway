@@ -1813,3 +1813,4 @@
 0980. 🎨 style: reformat files with black
 0023. 📚 docs: clarify environment setup
 0249. ✅ test: increase coverage on auth module
+0351. ✨ feat: add export to CSV option
