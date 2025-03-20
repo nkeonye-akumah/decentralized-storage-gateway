@@ -979,3 +979,4 @@
 0637. 🎨 style: apply consistent indentation
 0670. ✨ feat: add export to CSV option
 0379. ✨ feat: support email verification
+0472. 🐛 fix: fix null pointer exception on login
