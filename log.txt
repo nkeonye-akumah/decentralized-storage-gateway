@@ -1815,3 +1815,4 @@
 0249. ✅ test: increase coverage on auth module
 0351. ✨ feat: add export to CSV option
 0859. ✨ feat: create admin dashboard
+0253. 📚 docs: update README with setup steps
