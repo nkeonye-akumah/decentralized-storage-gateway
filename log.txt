@@ -1836,3 +1836,4 @@
 0210. 🎨 style: apply consistent indentation
 0741. 🎨 style: apply consistent indentation
 0790. 📚 docs: write FAQ section
+0468. 📚 docs: update README with setup steps
