@@ -1841,3 +1841,4 @@
 0342. 🚀 perf: cache repeated calculations
 0990. ♻️ chore: rename env.example
 0482. ✨ feat: add export to CSV option
+0697. ♻️ chore: bump dependencies
