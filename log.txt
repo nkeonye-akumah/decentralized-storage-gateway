@@ -1851,3 +1851,4 @@
 0167. 🚀 perf: reduce image load time
 0881. 🔧 refactor: split large controller into smaller functions
 0026. 🔧 refactor: clean up auth middleware
+0622. 🎨 style: apply consistent indentation
