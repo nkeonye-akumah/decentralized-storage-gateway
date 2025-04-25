@@ -1850,3 +1850,4 @@
 0275. 🎨 style: standardize quote style
 0167. 🚀 perf: reduce image load time
 0881. 🔧 refactor: split large controller into smaller functions
+0026. 🔧 refactor: clean up auth middleware
