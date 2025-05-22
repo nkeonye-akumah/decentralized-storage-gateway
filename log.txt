@@ -996,3 +996,4 @@
 0161. ✨ feat: create admin dashboard
 0361. ✨ feat: support email verification
 0002. 🚀 perf: cache repeated calculations
+0819. 🚀 perf: reduce image load time
