@@ -1871,3 +1871,4 @@
 0147. ♻️ chore: bump dependencies
 0311. 🎨 style: apply consistent indentation
 0904. ✨ feat: implement quiz timer feature
+0605. ✨ feat: support email verification
