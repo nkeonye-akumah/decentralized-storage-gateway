@@ -1891,3 +1891,4 @@
 0673. 🐛 fix: correct typo in registration form
 0033. 🎨 style: apply consistent indentation
 0375. 🐛 fix: handle 500 error in quiz API
+0814. 🔧 refactor: remove redundant code blocks
