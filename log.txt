@@ -1009,3 +1009,4 @@
 0316. 🐛 fix: fix broken CSS in mobile view
 0864. 🐛 fix: correct typo in registration form
 0723. 🔧 refactor: remove redundant code blocks
+0606. 📚 docs: improve code comments in utils
