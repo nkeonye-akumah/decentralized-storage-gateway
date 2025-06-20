@@ -1895,3 +1895,4 @@
 0597. 🚀 perf: cache repeated calculations
 0569. 📚 docs: document token refresh logic
 0668. 🚀 perf: optimize database query for quiz results
+0609. 🐛 fix: handle 500 error in quiz API
