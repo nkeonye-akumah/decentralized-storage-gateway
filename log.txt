@@ -1906,3 +1906,4 @@
 0842. 🎨 style: remove trailing whitespace
 0755. 🚀 perf: cache repeated calculations
 0907. 🔧 refactor: split large controller into smaller functions
+0978. 🐛 fix: prevent crash on empty input
