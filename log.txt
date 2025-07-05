@@ -1909,3 +1909,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0278. 🔧 refactor: clean up auth middleware
 0766. 🎨 style: reformat files with black
+0122. ✨ feat: support email verification
