@@ -1010,3 +1010,4 @@
 0864. 🐛 fix: correct typo in registration form
 0723. 🔧 refactor: remove redundant code blocks
 0606. 📚 docs: improve code comments in utils
+0270. ♻️ chore: rename env.example
