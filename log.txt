@@ -1927,3 +1927,4 @@
 0208. 🔧 refactor: clean up auth middleware
 0901. ✨ feat: add user authentication
 0125. ✅ test: add integration test for /submit endpoint
+0162. ♻️ chore: add GitHub actions badge
