@@ -1937,3 +1937,4 @@
 0101. 📚 docs: clarify environment setup
 0179. 🔧 refactor: split large controller into smaller functions
 0523. ♻️ chore: bump dependencies
+0139. 📚 docs: document token refresh logic
