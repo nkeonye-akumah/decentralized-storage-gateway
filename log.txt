@@ -1962,3 +1962,4 @@
 0096. 🐛 fix: prevent crash on empty input
 0695. ✨ feat: create admin dashboard
 0577. ✨ feat: implement quiz timer feature
+0413. ✅ test: add integration test for /submit endpoint
