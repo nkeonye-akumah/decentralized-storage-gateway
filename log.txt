@@ -1976,3 +1976,4 @@
 0912. 📚 docs: document token refresh logic
 0384. 📚 docs: clarify environment setup
 0513. ♻️ chore: bump dependencies
+0945. ♻️ chore: add GitHub actions badge
