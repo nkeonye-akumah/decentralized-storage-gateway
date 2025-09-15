@@ -1978,3 +1978,4 @@
 0513. ♻️ chore: bump dependencies
 0945. ♻️ chore: add GitHub actions badge
 0428. 🐛 fix: fix null pointer exception on login
+0042. 📚 docs: document token refresh logic
