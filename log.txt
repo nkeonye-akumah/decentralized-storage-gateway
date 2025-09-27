@@ -1986,3 +1986,4 @@
 0849. 🐛 fix: correct typo in registration form
 0339. 📚 docs: update README with setup steps
 0856. 🐛 fix: fix null pointer exception on login
+0835. 🐛 fix: prevent crash on empty input
