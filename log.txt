@@ -1989,3 +1989,4 @@
 0835. 🐛 fix: prevent crash on empty input
 0509. ♻️ chore: bump dependencies
 0146. 🎨 style: apply consistent indentation
+0185. 📚 docs: write FAQ section
