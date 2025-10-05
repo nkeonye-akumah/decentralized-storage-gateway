@@ -1992,3 +1992,4 @@
 0185. 📚 docs: write FAQ section
 0935. 📚 docs: update README with setup steps
 0437. 📚 docs: clarify environment setup
+0561. 📚 docs: write FAQ section
