@@ -1048,3 +1048,4 @@
 0424. ✨ feat: add user authentication
 0989. 📚 docs: write FAQ section
 0576. ♻️ chore: update .gitignore
+0152. ✨ feat: add user authentication
