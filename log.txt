@@ -1051,3 +1051,4 @@
 0152. ✨ feat: add user authentication
 0114. ♻️ chore: update .gitignore
 0036. 🔧 refactor: clean up auth middleware
+0613. 🐛 fix: prevent crash on empty input
