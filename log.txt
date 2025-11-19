@@ -2030,3 +2030,4 @@
 0566. 📚 docs: write FAQ section
 0270. ♻️ chore: rename env.example
 0077. ♻️ chore: rename env.example
+0013. ✅ test: increase coverage on auth module
