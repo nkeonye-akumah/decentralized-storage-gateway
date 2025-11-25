@@ -2038,3 +2038,4 @@
 0117. ✅ test: increase coverage on auth module
 0062. ♻️ chore: update .gitignore
 0348. ✅ test: test user registration edge cases
+0484. 🐛 fix: handle 500 error in quiz API
