@@ -2041,3 +2041,4 @@
 0484. 🐛 fix: handle 500 error in quiz API
 0868. ✅ test: add unit test for quiz service
 0848. 📚 docs: update README with setup steps
+0747. 🔧 refactor: clean up auth middleware
