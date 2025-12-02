@@ -2051,3 +2051,4 @@
 0252. 🎨 style: remove trailing whitespace
 0402. 🎨 style: reformat files with black
 0058. ♻️ chore: add GitHub actions badge
+0053. ✅ test: increase coverage on auth module
