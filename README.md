@@ -1,4 +1,4 @@
-Introduction
+Introductio
 ============
 
 ![Bower version](https://img.shields.io/bower/v/adminlte.svg)
