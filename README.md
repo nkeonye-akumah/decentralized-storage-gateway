@@ -15,7 +15,7 @@ Storj is building a distributed cloud storage network.
 
 ----
 
-Storj is an S3-compatible platform and suite of distributed applications that
+DSG is an S3-compatible platform and suite of distributed applications that
 allows you to store data in a secure and distributed manner. Your files are
 encrypted, broken into little pieces and stored in a global distributed
 network of computers. Luckily, we also support allowing you (and only you) to
