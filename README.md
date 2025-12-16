@@ -4,7 +4,7 @@
   <img alt="Storj logo" src="https://raw.githubusercontent.com/storj/.github/main/assets/storj-logo-full-color.png" width="140">
 </picture>
 
-#    V3 Network
+#    fdg V3 Network
 
 [![Go Report Card](https://goreportcard.com/badge/storj.io/storj)](https://goreportcard.com/report/storj.io/storj)
 [![Go Doc](https://img.shields.io/badge/godoc-reference-blue.svg?style=flat-square)](https://pkg.go.dev/storj.io/storj)
